@@ -1,0 +1,30 @@
+[
+  {
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/1300001.jpg",
+    "skin_name": "Sheriff Woody",
+    "hero_name": "Clint",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/13/1300001.zip"
+  },
+  {
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/_0100001.jpg",
+    "skin_name": "Alex",
+    "hero_name": "Miya",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/1/_0100001.zip"
+  },
+  {
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/_0700002.jpg",
+    "skin_name": "Steve",
+    "hero_name": "Alucard",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/7/_0700002.zip"
+  },
+  {
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600001.jpg",
+    "skin_name": "Mario",
+    "hero_name": "Chou",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600001.zip"
+  }
+]
