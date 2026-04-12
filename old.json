@@ -1,26 +1,12 @@
 [
   {
-    "hero": "Saber",
-    "upgradable_skin": "Fullmetal Ronin",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb=20220525164330",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
+    "hero_name": "Alucard",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
   },
   {
-    "hero": "Saber",
-    "upgradable_skin": "Golden Flash",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest?cb=20220525164327",
-    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
-  },
-  {
-    "hero": "Karina",
-    "upgradable_skin": "Phantom Blade",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest?cb=20220525164455",
-    "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip"
-  },
-  {
-    "hero": "Karina",
-    "upgradable_skin": "Black Pearl",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest?cb=20220525164457",
-    "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip"
+    "hero_name": "Argus",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
   }
 ]
