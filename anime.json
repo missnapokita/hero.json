@@ -1,14 +1,12 @@
 [
   {
-    "hero": "Alucard",
-    "skin_name": "Backup",
+    "hero_name": "Alucard",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
-    "script_url": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
+    "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
   },
   {
-    "hero": "Argus",
-    "skin_name": "Backup",
+    "hero_name": "Argus",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
-    "script_url": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
+    "script": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
   }
 ]
