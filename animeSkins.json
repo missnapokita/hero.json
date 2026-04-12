@@ -2,49 +2,49 @@
   {
     "name": "Alucard",
     "skin_name": "Backup",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
     "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
   },
   {
     "name": "Alucard",
     "skin_name": "Tanjiro",
-    "image_url": "https://github.com/jormdragneel/Custom-Skin/raw/main/assets/portrait/demons_slayer_tanjiro.jpg",
+    "image": "https://github.com/jormdragneel/Custom-Skin/raw/main/assets/portrait/demons_slayer_tanjiro.jpg",
     "script": "https://github.com/missnapokita/march-2025/raw/refs/heads/main/alu%20tanjiro.zip"
   },
   {
     "name": "Alucard",
     "skin_name": "Shanks",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwW53Vuqk1RjbfEd3VhoxqrQeyCXnqINHVUVovpRD3Lk1ytNZ85pZ5Mm&s=10",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwW53Vuqk1RjbfEd3VhoxqrQeyCXnqINHVUVovpRD3Lk1ytNZ85pZ5Mm&s=10",
     "script": "https://github.com/missnapokita/anime-July-2024/raw/main/alucard%20shanks.zip"
   },
   {
     "name": "Alucard",
     "skin_name": "Ichigo",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQozEvgmKG2h27s4j6pLCNHK8n8hXItpq7qMg&s",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQozEvgmKG2h27s4j6pLCNHK8n8hXItpq7qMg&s",
     "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/alu%20ichigo.zip"
   },
   {
     "name": "Alucard",
     "skin_name": "Renguko",
-    "image_url": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ff8212e-3864-4f58-a400-8d17e338f531/dg4hao0-87260cf0-30c1-4e4c-8b2e-6aa5bb6e4966.jpg",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ff8212e-3864-4f58-a400-8d17e338f531/dg4hao0-87260cf0-30c1-4e4c-8b2e-6aa5bb6e4966.jpg",
     "script": "https://github.com/rahasiia55/New-Default-skin/raw/main/alucard%20rengoku.zip"
   },
   {
     "name": "Argus",
     "skin_name": "Backup",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
     "script": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
   },
   {
     "name": "Argus",
     "skin_name": "Aizen",
-    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwbnog9B3VxFvFV9KE8uKiT6mL7KanmX0pfYuoALHd52uLtsTQx1Q&s=10",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwbnog9B3VxFvFV9KE8uKiT6mL7KanmX0pfYuoALHd52uLtsTQx1Q&s=10",
     "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20aizen.zip"
   },
   {
     "name": "Argus",
     "skin_name": "Toji",
-    "image_url": "https://i.pinimg.com/736x/15/e0/d2/15e0d27ded42e2126c21db3f77633bff.jpg",
+    "image": "https://i.pinimg.com/736x/15/e0/d2/15e0d27ded42e2126c21db3f77633bff.jpg",
     "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20toji.zip"
   }
 ]
