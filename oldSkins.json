@@ -1,0 +1,26 @@
+[
+  {
+    "upgradable_skin": "Fullmetal Ronin",
+    "name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb=20220525164330",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
+  },
+  {
+    "upgradable_skin": "Fullmetal Ronin",
+    "name": "Codename - Storm",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/saber%20elite%20to%20legend.zip"
+  },
+  {
+    "name": "Backup",
+    "upgradable_skin": "Golden Flash",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest?cb=20220525164327",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
+  },
+  {
+    "upgradable_skin": "Golden Flash",
+    "name": "Codename - Storm",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero034-portrait.png/revision/latest?cb=20220525164329",
+    "script": "https://github.com/missnapokita/June-Ass-Upgrade-2/raw/main/saber%20normal%20to%20legend.zip"
+  }
+]
