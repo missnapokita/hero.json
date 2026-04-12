@@ -1,0 +1,122 @@
+[
+  {
+    "hero_name": "Lesley",
+    "skin_name": "Angelic Agent",
+    "image": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/lesley_legendPort.png",
+    "script": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/lesley_def_legend.zip"
+  },
+  {
+    "hero_name": "Pharsa",
+    "skin_name": "Seasworn",
+    "image": "https://github.com/Mexica23/april_images/raw/refs/heads/main/pharsaAllPor.jpg",
+    "script": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/pharsa_def_allstar.zip"
+  },
+  {
+    "hero_name": "Alice",
+    "skin_name": "Draming Monarch",
+    "image": "https://github.com/Mexica23/april_images/raw/refs/heads/main/AliceColPort.jpg",
+    "script": "https://github.com/Mexica23/April_2026_3/raw/refs/heads/main/alice_def_collector.zip"
+  },
+  {
+    "hero_name": "Yu Zhong",
+    "skin_name": "Tidescale Sealord",
+    "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/YZPortrait.jpg",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yuZhing_def_allstar.zip"
+  },
+  {
+    "hero_name": "Ling",
+    "skin_name": "Phantom Current",
+    "image": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/LingPortrait.jpg",
+    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/ling_def_allstar.zip"
+  },
+  {
+    "hero_name": "Julian",
+    "skin_name": "Itachi",
+    "image": "https://github.com/Mexi23/Feb_2026/raw/refs/heads/main/itachi_julian.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/julian_itachi.zip"
+  },
+  {
+    "skin_name": "Minato",
+    "hero_name": "Gusion",
+    "image": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
+    "script": "https://github.com/zetsuya05/assa_feb2026/raw/refs/heads/main/gusion_minato.zip"
+  },
+  {
+    "hero_name": "Leomord",
+    "skin_name": "Auspicious Blaze",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_130459.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/leomord_lunarfest.zip"
+  },
+  {
+    "skin_name": "Collector Titans",
+    "hero_name": "Grock",
+    "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_123451.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/grock_collector.zip"
+  },
+  {
+    "hero_name": "Lylia",
+    "skin_name": "Phantasmal Revelry",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_131018.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/lylia_covenant.zip"
+  },
+  {
+    "hero_name": "Eudora",
+    "skin_name": "Atomic Pop Eudora",
+    "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_120503.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/eudora_covenant.zip"
+  },
+  {
+    "hero_name": "Fanny",
+    "skin_name": "Galactic Starhawk",
+    "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny%20legend.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip"
+  },
+  {
+    "hero_name": "Zetian",
+    "skin_name": "Starlight",
+    "image": "https://github.com/Mexi23/others_2026/raw/main/20260309_133923.jpg",
+    "script": "https://github.com/Mexi23/others_2026/raw/main/zetia_starlight.zip"
+  },
+  {
+    "hero_name": "Lancelot",
+    "skin_name": "Blade of Devotion",
+    "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot%20valentine.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip"
+  },
+  {
+    "hero_name": "Odette",
+    "skin_name": "Song of Devotion",
+    "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette%20valentines.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/odette_def_valen.zip"
+  },
+  {
+    "hero_name": "Benedetta",
+    "skin_name": "Vessel of Pride",
+    "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/benedetta%20soul.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Benedetta_def_soulVessel.zip"
+  },
+  {
+    "hero_name": "Miya",
+    "skin_name": "Eternal Season - Miya",
+    "image": "https://github.com/tin0521/January_2026/raw/main/miya%20ethernal.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/miya_def_eternal.zip"
+  },
+  {
+    "hero_name": "Floryn",
+    "skin_name": "Arrow of Spring",
+    "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn%20ethernal.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/floryn_def_eternal.zip"
+  },
+  {
+    "hero_name": "Clint",
+    "skin_name": "Vessel of Ruin",
+    "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/clint%20soul.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/clint_def_soul.zip"
+  },
+  {
+    "hero_name": "Cecilion",
+    "skin_name": "Vessel of Gluttony",
+    "image": "https://github.com/tin0521/January_2026/raw/refs/heads/main/cecilion%20soul.jpg",
+    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/Ceciliom_Def_SoulVessel.zip"
+  }
+]
