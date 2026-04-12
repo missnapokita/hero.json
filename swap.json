@@ -1,17 +1,26 @@
 [
- {
-    "swap_name": "Barats",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero991-portrait.png/revision/latest?cb=20240103093200",
-    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/barats%20backup.zip"
+  {
+    "hero": "Saber",
+    "upgradable_skin": "Fullmetal Ronin",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero035-portrait.png/revision/latest?cb=20220525164330",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
   },
   {
-    "swap_name": "Gloo",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero1041-portrait.png/revision/latest?cb=20240602231141",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/gloo%20epic.zip"
+    "hero": "Saber",
+    "upgradable_skin": "Golden Flash",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero032-portrait.png/revision/latest?cb=20220525164327",
+    "script": "https://github.com/missnapokita/June2024-R-S-T/raw/main/saber%20backup.zip"
   },
   {
-    "swap_name": "Edith",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero1111-portrait.png/revision/latest?cb=20220525171947",
-    "script": "https://github.com/missnapokita/June-2024-E-F/raw/main/edith%20backup.zip"
-  }  
+    "hero": "Karina",
+    "upgradable_skin": "Phantom Blade",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest?cb=20220525164455",
+    "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip"
+  },
+  {
+    "hero": "Karina",
+    "upgradable_skin": "Black Pearl",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/04/Hero084-portrait.png/revision/latest?cb=20220525164457",
+    "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Karina%20Backup.zip"
+  }
 ]
