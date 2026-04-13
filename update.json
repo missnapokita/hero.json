@@ -1,7 +1,8 @@
 [
   {
-    "version": "2.0",
-    "messege": "New update available!",
+    "show": "true",
+    "title": "New Update",
+    "messege": "Fix Bugs",
     "link": "https://play.google.com/store/apps/details?id=com.yourpackage.name"
   }
 ]
