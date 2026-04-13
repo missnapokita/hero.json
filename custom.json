@@ -1,36 +1,36 @@
 [
   {
-    "hero": "Alucard",
+    "hero_name": "Alucard",
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
     "script_url": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
   },
   {
-    "hero": "Belerick",
+    "hero_name": "Belerick",
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb=20220525165729",
     "script_url": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/belerick%20backup.zip"
   },
   {
-    "hero": "Chou",
+    "hero_name": "Chou",
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
     "script_url": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
   },
   {
-    "hero": "Lapu-Lapu",
+    "hero_name": "Lapu-Lapu",
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
     "script_url": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip"
   },
   {
-    "hero": "Paquito",
+    "hero_name": "Paquito",
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
     "script_url": "https://github.com/missnapokita/June2024-N-O-P/raw/main/paquito%20backup.zip"
   },
   {
-    "hero": "Popol & Kupa",
+    "hero_name": "Popol & Kupa",
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
     "script_url": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Marksman//popol%20backup.zip"
