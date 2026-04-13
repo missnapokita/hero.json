@@ -1,50 +1,44 @@
 [
   {
-    "name": "Alucard",
+    "name": "Chou",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb\u003d20220525164846",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
   },
   {
-    "name": "Alucard",
-    "skin_name": "Tanjiro",
-    "image": "https://github.com/jormdragneel/Custom-Skin/raw/main/assets/portrait/demons_slayer_tanjiro.jpg",
-    "script": "https://github.com/missnapokita/march-2025/raw/refs/heads/main/alu%20tanjiro.zip"
+    "name": "Chou",
+    "skin_name": "Dragon Boy",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcR-GutNUN7ncAUN6orM0rZpRZ0LbOTZxi--tgnNxYrARiqyJEnGz7paEoc\u0026s\u003d10",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//old%20chou%20epic.zip"
   },
   {
-    "name": "Alucard",
-    "skin_name": "Shanks",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwW53Vuqk1RjbfEd3VhoxqrQeyCXnqINHVUVovpRD3Lk1ytNZ85pZ5Mm&s=10",
-    "script": "https://github.com/missnapokita/anime-July-2024/raw/main/alucard%20shanks.zip"
-  },
-  {
-    "name": "Alucard",
-    "skin_name": "Ichigo",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQozEvgmKG2h27s4j6pLCNHK8n8hXItpq7qMg&s",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/alu%20ichigo.zip"
-  },
-  {
-    "name": "Alucard",
-    "skin_name": "Renguko",
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ff8212e-3864-4f58-a400-8d17e338f531/dg4hao0-87260cf0-30c1-4e4c-8b2e-6aa5bb6e4966.jpg",
-    "script": "https://github.com/rahasiia55/New-Default-skin/raw/main/alucard%20rengoku.zip"
-  },
-  {
-    "name": "Argus",
+    "name": "Lancelot",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb\u003d20240501053243",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/lance%20backup.zip?t\u003d2025-01-19T04%3A45%3A16.783Z"
   },
   {
-    "name": "Argus",
-    "skin_name": "Aizen",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwbnog9B3VxFvFV9KE8uKiT6mL7KanmX0pfYuoALHd52uLtsTQx1Q&s=10",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20aizen.zip"
+    "name": "Lancelot",
+    "skin_name": "Christmas Carnival",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQpkRfAVjpM66lz5QTXexPN9WDCMTgM5RQASxYopeqAkmMmmfXRjYCRt3o\u0026s\u003d10",
+    "script": "https://github.com/missnapokita/Feb-24-anime/raw/refs/heads/main/lance%20old%20xmas.zip"
   },
   {
-    "name": "Argus",
-    "skin_name": "Toji",
-    "image": "https://i.pinimg.com/736x/15/e0/d2/15e0d27ded42e2126c21db3f77633bff.jpg",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20toji.zip"
+    "name": "Lancelot",
+    "skin_name": "Royal Matador",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb\u003d20220525165247",
+    "script": "https://github.com/missnapokita/Feb-24-anime/raw/refs/heads/main/lancelot%20old%20matador.zip"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb\u003d20240605151224",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/fanny%20backup.zip?t\u003d2025-01-19T04%3A39%3A03.145Z"
+  },
+  {
+    "name": "Fanny",
+    "skin_name": "Skylark",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQiVZcMhJujjsdCvGcZkv4ra2wk_uhSUwU6VYii2wYJJoToHs8qIAERYJF2\u0026s\u003d10",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//fanny%20old%20sky.zip"
   }
 ]
