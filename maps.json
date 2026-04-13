@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Restore",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTjl0sb9gIn21hGY5BzXQLJb0utyj1U5RpHybfcuE1tYKmpVWY2JdriXiU\u0026s\u003d10",
+    "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20backup.zip",
+    "tag": "low"
+  },
+  {
+    "name": "Night Mode",
+    "image": "https://raw.githubusercontent.com/missnapokita/march26cus.img/refs/heads/main/Picsart_26-03-28_22-26-01-801.jpg",
+    "script": "https://github.com/missnapokita/march26cus.img/raw/refs/heads/main/night%20santrum%20low.zip",
+    "tag": "low"
+  },
+  {
+    "name": "Restore",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTjl0sb9gIn21hGY5BzXQLJb0utyj1U5RpHybfcuE1tYKmpVWY2JdriXiU\u0026s\u003d10",
+    "script": "https://github.com/missnapokita/map-script/raw/main/santrum%20backup.zip",
+    "tag": "high"
+  },
+  {
+    "name": "Night Mode [High]",
+    "image": "https://raw.githubusercontent.com/missnapokita/march26cus.img/refs/heads/main/Picsart_26-03-28_22-26-01-801.jpg",
+    "script": "https://github.com/missnapokita/march26cus.img/raw/refs/heads/main/santrum%20night%20high.zip",
+    "tag": "high"
+  },
+  {
+    "name": "Night Mode [Ultra]",
+    "image": "https://raw.githubusercontent.com/missnapokita/march26cus.img/refs/heads/main/Picsart_26-03-28_22-26-01-801.jpg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/maps/santrum%20night%20ultra.zip",
+    "tag": "high"
+  },
+  {
+    "name": "League of Legends [High]",
+    "image": "https://raw.githubusercontent.com/missnapokita/march26cus.img/refs/heads/main/Picsart_26-03-28_09-55-45-550.jpg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/maps/santrum%20night%20ultra.zip",
+    "tag": "high"
+  }
+]
