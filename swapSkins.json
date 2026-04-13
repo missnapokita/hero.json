@@ -1,50 +1,38 @@
 [
   {
-    "name": "Alucard",
+    "name": "Arlott",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/arlott%20backup.zip"
   },
   {
-    "name": "Alucard",
-    "skin_name": "Tanjiro",
-    "image": "https://github.com/jormdragneel/Custom-Skin/raw/main/assets/portrait/demons_slayer_tanjiro.jpg",
-    "script": "https://github.com/missnapokita/march-2025/raw/refs/heads/main/alu%20tanjiro.zip"
+    "name": "Arlott",
+    "skin_name": "Killua",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero739-portrait.png/revision/latest?cb\u003d20241207073217",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Marksman//arlott%20x%20killua.zip"
   },
   {
-    "name": "Alucard",
-    "skin_name": "Shanks",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwW53Vuqk1RjbfEd3VhoxqrQeyCXnqINHVUVovpRD3Lk1ytNZ85pZ5Mm&s=10",
-    "script": "https://github.com/missnapokita/anime-July-2024/raw/main/alucard%20shanks.zip"
-  },
-  {
-    "name": "Alucard",
-    "skin_name": "Ichigo",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQozEvgmKG2h27s4j6pLCNHK8n8hXItpq7qMg&s",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/alu%20ichigo.zip"
-  },
-  {
-    "name": "Alucard",
-    "skin_name": "Renguko",
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ff8212e-3864-4f58-a400-8d17e338f531/dg4hao0-87260cf0-30c1-4e4c-8b2e-6aa5bb6e4966.jpg",
-    "script": "https://github.com/rahasiia55/New-Default-skin/raw/main/alucard%20rengoku.zip"
-  },
-  {
-    "name": "Argus",
+    "name": "Lancelot",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/lance%20backup.zip?t\\u003d2025-01-19T04%3A45%3A16.783Z"
   },
   {
-    "name": "Argus",
-    "skin_name": "Aizen",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwbnog9B3VxFvFV9KE8uKiT6mL7KanmX0pfYuoALHd52uLtsTQx1Q&s=10",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20aizen.zip"
+    "name": "Lancelot",
+    "skin_name": "Killua",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero739-portrait.png/revision/latest?cb\u003d20241207073217",
+    "script": "https://github.com/missnapokita/Feb-24-anime/raw/refs/heads/main/lance%20x%20killua.zip"
   },
   {
-    "name": "Argus",
-    "skin_name": "Toji",
-    "image": "https://i.pinimg.com/736x/15/e0/d2/15e0d27ded42e2126c21db3f77633bff.jpg",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20toji.zip"
+    "name": "Ling",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero841-portrait.png/revision/latest?cb\\u003d20240621034004",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/ling%20backup.zip?t\\u003d2025-01-19T04%3A46%3A42.375Z"
+  },
+  {
+    "name": "Ling",
+    "skin_name": "Levi",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero587-portrait.png/revision/latest?cb\u003d20240129101655",
+    "script": "https://github.com/missnapokita/anime-July-2024/raw/main/ling%20x%20levi.zip"
   }
 ]
