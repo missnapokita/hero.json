@@ -7,44 +7,56 @@
   },
   {
     "name": "Alucard",
-    "skin_name": "Tanjiro",
-    "image": "https://github.com/jormdragneel/Custom-Skin/raw/main/assets/portrait/demons_slayer_tanjiro.jpg",
-    "script": "https://github.com/missnapokita/march-2025/raw/refs/heads/main/alu%20tanjiro.zip"
+    "skin_name": "Steve",
+    "image": "https://raw.githubusercontent.com/missnapokita/aug-squad/refs/heads/main/Picsart_26-03-17_11-21-49-831.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/1/_0100001.zip"
   },
   {
     "name": "Alucard",
-    "skin_name": "Shanks",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwW53Vuqk1RjbfEd3VhoxqrQeyCXnqINHVUVovpRD3Lk1ytNZ85pZ5Mm&s=10",
-    "script": "https://github.com/missnapokita/anime-July-2024/raw/main/alucard%20shanks.zip"
+    "skin_name": "Rimuru",
+    "image": "https://i.pinimg.com/736x/80/e9/a6/80e9a6de84fd88c1a89151c0521fc6dc.jpg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/alu%20rimuru.zip"
   },
   {
-    "name": "Alucard",
-    "skin_name": "Ichigo",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQozEvgmKG2h27s4j6pLCNHK8n8hXItpq7qMg&s",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/alu%20ichigo.zip"
+    "name": "Belerick",
+    "skin_name": "Iron Golem",
+    "image": "https://ccdn.g-portal.com/mc_blog_iron_golem_2_1775af75bd.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/70/7000001.zip"
   },
   {
-    "name": "Alucard",
-    "skin_name": "Renguko",
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9ff8212e-3864-4f58-a400-8d17e338f531/dg4hao0-87260cf0-30c1-4e4c-8b2e-6aa5bb6e4966.jpg",
-    "script": "https://github.com/rahasiia55/New-Default-skin/raw/main/alucard%20rengoku.zip"
+    "name": "Chou",
+    "skin_name": "Mc Donald's",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600004.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600004.zip"
   },
   {
-    "name": "Argus",
-    "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
+    "name": "Chou",
+    "skin_name": "Crimson Talisman",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600003.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600003.zip"
   },
   {
-    "name": "Argus",
-    "skin_name": "Aizen",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiwbnog9B3VxFvFV9KE8uKiT6mL7KanmX0pfYuoALHd52uLtsTQx1Q&s=10",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20aizen.zip"
+    "name": "Chou",
+    "skin_name": "Northern Fist",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600002.zip",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600002.jpg"
   },
   {
-    "name": "Argus",
-    "skin_name": "Toji",
-    "image": "https://i.pinimg.com/736x/15/e0/d2/15e0d27ded42e2126c21db3f77633bff.jpg",
-    "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20toji.zip"
+    "name": "Chou",
+    "skin_name": "Mario",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600001.zip"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Aurora Gaming",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/3700001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/37/3700001.zip"
+  },
+  {
+    "name": "Popol & Kupa",
+    "skin_name": "Steve & Dog",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/9400001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/94/9400001.zip"
   }
 ]
