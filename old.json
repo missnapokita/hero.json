@@ -1,12 +1,17 @@
 [
   {
-    "hero_name": "Alucard",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
+    "hero_name": "Chou",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
   },
   {
-    "hero_name": "Argus",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
+    "hero_name": "Lancelot",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/lance%20backup.zip?t=2025-01-19T04%3A45%3A16.783Z"
+  },
+  {
+    "hero_name": "Fanny",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/fanny%20backup.zip?t=2025-01-19T04%3A39%3A03.145Z"
   }
 ]
