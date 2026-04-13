@@ -2,7 +2,7 @@
   {
     "name": "Alucard",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb\u003d20240605132947",
     "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
   },
   {
@@ -19,13 +19,25 @@
   },
   {
     "name": "Belerick",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb\u003d20220525165729",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/belerick%20backup.zip"
+  },
+  {
+    "name": "Belerick",
     "skin_name": "Iron Golem",
     "image": "https://ccdn.g-portal.com/mc_blog_iron_golem_2_1775af75bd.png",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/70/7000001.zip"
   },
   {
     "name": "Chou",
-    "skin_name": "Mc Donald's",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb\u003d20220525164846",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Mc Donald\u0027s",
     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600004.jpg",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600004.zip"
   },
@@ -49,14 +61,38 @@
   },
   {
     "name": "Lapu-Lapu",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb\u003d20220525165107",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip"
+  },
+  {
+    "name": "Lapu-Lapu",
     "skin_name": "Aurora Gaming",
     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/3700001.jpg",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/37/3700001.zip"
   },
   {
-    "name": "Popol & Kupa",
-    "skin_name": "Steve & Dog",
+    "name": "Popol \u0026 Kupa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb\u003d20240430165645",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Marksman//popol%20backup.zip"
+  },
+  {
+    "name": "Popol \u0026 Kupa",
+    "skin_name": "Steve \u0026 Dog",
     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/9400001.jpg",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/94/9400001.zip"
+  },
+  {
+    "name": "Paquito",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb\u003d20220525170349",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/paquito%20backup.zip"
+  },
+  {
+    "name": "Paquito",
+    "skin_name": "Jollibee",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/10300001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip"
   }
 ]
