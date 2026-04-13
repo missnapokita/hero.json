@@ -1,0 +1,11 @@
+[
+  {
+    "version": "1.0",
+    "messege": "You're using the latest version of the app."
+  },
+  {
+    "version": "2.0",
+    "messege": "New update available! Please update to continue.",
+    "link": "https://play.google.com/store/apps/details?id=com.yourpackage.name"
+  }
+]
