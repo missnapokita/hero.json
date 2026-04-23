@@ -1,5 +1,19 @@
 [
   {
+    "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/refs/heads/main/20260423_145525.jpg",
+    "skin_name": "Jollibee",
+    "hero_name": "Paquito",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/refs/heads/main/20260423_145706.jpg",
+    "skin_name": "McDonald\u0027s",
+    "hero_name": "Chou",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600004.zip"
+  },
+  {
     "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/refs/heads/main/20260411_113032.jpg",
     "skin_name": "Sheriff Woody",
     "hero_name": "Clint",
