@@ -40,10 +40,5 @@
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
     "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Marksman//popol%20backup.zip"
-  },
-  {
-    "name": "New Item",
-    "id": "1778697879112",
-    "image": "https://via.placeholder.com/150"
   }
 ]
