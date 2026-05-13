@@ -109,6 +109,12 @@
   },
   {
     "upgradable_skin": "Campus Youth",
+    "name": "Galactic Starhawk",
+    "image": "https://raw.githubusercontent.com/missnapokita/aug-squad/refs/heads/main/Picsart_26-03-17_10-51-49-684.jpg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Skin/fanny/fan%20elite%20to%20le.zip"
+  },
+  {
+    "upgradable_skin": "Campus Youth",
     "name": "Heart Afloat",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb=20230212035453",
     "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Fanny%20Elite%20to%20VALENTINE.zip"
