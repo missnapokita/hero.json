@@ -100,5 +100,11 @@
     "skin_name": "Jollibee",
     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/10300001.jpg",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip"
+  },
+  {
+    "name": "Vexana",
+    "skin_name": "Makdo",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/9400001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip"
   }
 ]
