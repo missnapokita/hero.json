@@ -391,70 +391,70 @@
     "skin_name": "Backup",
     "name": "Lancelot",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/df/Hero471-portrait.png/revision/latest?cb=20240501053243",
-    "script": "https://github.com/zetsuya05/january/raw/main/lancelot_backup.zip",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/lance%20backup.zip?t=2025-01-19T04%3A45%3A16.783Z",
     "tag": "Backup"
   },
   {
     "name": "Lancelot",
     "skin_name": "Blade of Devotion",
     "image": "https://github.com/tin0521/January_2026/blob/main/lancelot%20valentine.jpg?raw=true",
-    "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/lancelot_def_valentine.zip",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Skin/lance/lance%20valin.zip",
     "tag": "Valentines"
   },
   {
     "name": "Lancelot",
     "skin_name": "Bren. Esports",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_bren.zip",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20bren.zip",
     "tag": "Champion"
   },
   {
     "name": "Lancelot",
     "skin_name": "Empyrean Flame",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_emperyean.zip",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20dragon%20tamer.zip",
     "tag": "Dragon Tamer"
   },
   {
     "name": "Lancelot",
     "skin_name": "Floral Knight",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest?cb=20220525165250",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_floralknight.zip",
+    "script": "https://github.com/missnapokita/Feb-24-anime/raw/refs/heads/main/lance%20old%20epic.zip",
     "tag": "Epic"
   },
   {
     "name": "Lancelot",
     "skin_name": "Royal Matador",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest?cb=20220525165247",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_royalmatador.zip",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20epic%20matador.zip",
     "tag": "Epic"
   },
   {
     "name": "Lancelot",
     "skin_name": "Swordmaster",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ee/Hero478-portrait.png/revision/latest?cb=20220525165251",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_swordmaster.zip",
+    "script": "https://github.com/rahasia55/New-Default-skin/raw/main/lancelot%20hero.zip",
     "tag": "Dawning Stars"
   },
   {
     "name": "Lancelot",
     "skin_name": "Christmas Carnival",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest?cb=20220525165246",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_christmas.zip",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20xmas.zip",
     "tag": "Christmas"
   },
   {
     "name": "Lancelot",
     "skin_name": "Pisces",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest?cb=20230212041010",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_pisces.zip",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lance%20zodiac.zip",
     "tag": "Zodiac"
   },
   {
     "name": "Lancelot",
     "skin_name": "Guardian of the Shrine",
     "image": "https://i.pinimg.com/736x/76/9e/9c/769e9c5f7294e060050fd62f7e1f059e.jpg",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/lancelot_guardian.zip",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Skin/lance%20keshin.zip",
     "tag": "Kishin Densetsu"
   },
   {
