@@ -1,17 +1,5 @@
 [
   {
-    "hero_name": "Alpha",
-    "skin_name": "Backup",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/alpha%20backup.zip"
-  },
-  {
-    "hero_name": "Alpha",
-    "skin_name": "Gundam",
-    "image_url": "https://c4.wallpaperflare.com/wallpaper/501/319/831/mobile-suit-gundam-the-witch-from-mercury-anime-gundam-aerial-gundam-artwork-hd-wallpaper-preview.jpg",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/alpha%20gundam.zip"
-  },
-  {
     "name": "Alucard",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
@@ -40,24 +28,6 @@
     "skin_name": "Iron Golem",
     "image": "https://ccdn.g-portal.com/mc_blog_iron_golem_2_1775af75bd.png",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/70/7000001.zip"
-  },
-  {
-    "hero_name": "Fredrinn",
-    "skin_name": "Backup",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter/fred%20backup.zip"
-  },
-  {
-    "hero_name": "Fredrinn",
-    "skin_name": "White Beard",
-    "image_url": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/11700001.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/117/11700001.zip"
-  },
-  {
-    "hero_name": "Fredrinn",
-    "skin_name": "Toji",
-    "image_url": "https://c4.wallpaperflare.com/wallpaper/95/627/603/jujutsu-kaisen-fushiguro-toji-weapon-sword-muscles-hd-wallpaper-preview.jpg",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/fred%20toji.zip"
   },
   {
     "name": "Chou",
@@ -112,18 +82,6 @@
     "skin_name": "Steve & Dog",
     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/9400001.jpg",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/94/9400001.zip"
-  },
-  {
-    "hero_name": "Vexana",
-    "skin_name": "Backup",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20240501104511",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Mage/vexa%20backup.zip"
-  },
-  {
-    "hero_name": "Vexana",
-    "skin_name": "Megumi",
-    "image_url": "https://wallpapers.com/images/hd/megumi-fushiguro-power-manifestation-anime-artwork-vl29gupg6wzfy2fd.jpg",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/vexa%20megumi.zip"
   },
   {
     "name": "Paquito",
