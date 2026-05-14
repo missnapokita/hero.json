@@ -1,11 +1,5 @@
 [
   {
-    "hero_name": "Alpha",
-    "skin_name": "Backup",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
-    "script": "https://github.com/missnapokita/june-2024/raw/main/alpha%20backup.zip"
-  },
-  {
     "hero_name": "Alucard",
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
@@ -24,12 +18,6 @@
     "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
   },
   {
-    "hero_name": "Fredrinn",
-    "skin_name": "Backup",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter/fred%20backup.zip"
-  },
-  {
     "hero_name": "Lapu-Lapu",
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
@@ -46,11 +34,5 @@
     "skin_name": "Backup",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
     "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Marksman//popol%20backup.zip"
-  },
-  {
-    "hero_name": "Vexana",
-    "skin_name": "Backup",
-    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20240501104511",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Mage/vexa%20backup.zip"
   }
 ]
