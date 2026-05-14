@@ -286,28 +286,28 @@
     "skin_name": "Backup",
     "name": "Yi Sun-Shin",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/29/Hero301-portrait.png/revision/latest?cb=20220525171302",
-    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_backup.zip",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/yss%20backup.zip?t=2025-01-19T04%3A48%3A34.699Z",
     "tag": "Backup"
   },
   {
     "name": "Yi Sun-Shin",
     "skin_name": "Lone Destructor",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest?cb=20220525164953",
-    "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/yss_def_collector.zip",
+    "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/yss%20col.zip",
     "tag": "Collector"
   },
   {
     "name": "Yi Sun-Shin",
     "skin_name": "Fleet Warden",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest?cb=20220628180302",
-    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_fleet.zip",
+    "script": "https://github.com/missnapokita/nov_25/raw/refs/heads/main/yss%20epic.zip",
     "tag": "Epic"
   },
   {
     "name": "Yi Sun-Shin",
     "skin_name": "Azure Sentry",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest?cb=20220525164954",
-    "script": "https://github.com/tin0521/mm/raw/refs/heads/main/yss_azure.zip",
+    "script": "https://github.com/missnapokita/June2024-W-X-Y/raw/main/yss%20starlight.zip",
     "tag": "Starlight"
   },
   {
