@@ -46,5 +46,11 @@
     "skin_name": "Toji",
     "image": "https://i.pinimg.com/736x/15/e0/d2/15e0d27ded42e2126c21db3f77633bff.jpg",
     "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20toji.zip"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Finn",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20X%20FINN.zip"
   }
 ]
