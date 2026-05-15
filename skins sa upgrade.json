@@ -672,10 +672,10 @@
     "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/harley%20star%20to%20collector.zip"
   },
   {
-    "name": "Backup",
+    "name": "Guardian of the Shrine",
     "upgradable_skin": "Bren. Esports",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
-    "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Lancelot/Lancelot%20Champion/Lancelot%20Champion%20Backup.zip"
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/lance%20backup.zip?t=2025-01-19T04%3A45%3A16.783Z"
   },
   {
     "upgradable_skin": "Bren. Esports",
@@ -784,6 +784,12 @@
     "name": "Guardian of the Shrine",
     "image": "https://pbs.twimg.com/media/GO1cGoFXsAEFNHd.jpg",
     "script": "https://github.com/Mornwish/Upgrade-Aassasin/raw/main/LANCELOT/Lancelot%20Kishin%20Densetsu%20To%20Starlight.zip"
+  },
+  {
+    "upgradable_skin": "Bren. Esports",
+    "name": "Guardian of the Shrine",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero104712-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144303",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Skin/lance%20champ%20to%20keshin.zip"
   },
   {
     "name": "Backup",
@@ -6544,6 +6550,12 @@
     "name": "Minato",
     "image": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
     "script": "https://github.com/Mexi23/April_2026/raw/refs/heads/main/gusion_valentines_minato.zip"
+  },
+  {
+    "upgradable_skin": "V.E.N.O.M Emperor Scorpion",
+    "name": "Minato",
+    "image": "https://raw.githubusercontent.com/zetsuya05/january_2026/refs/heads/main/images%20(61).jpeg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/GUSION%20VENOM%20TO%20NARUTO.zip"
   },
   {
     "upgradable_skin": "Lord of Wraith",
