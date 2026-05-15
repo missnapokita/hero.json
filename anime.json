@@ -8,5 +8,70 @@
     "hero_name": "Argus",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest?cb=20220525165226",
     "script": "https://github.com/missnapokita/june-2024/raw/main/argus%20backup.zip"
+  },
+  {
+    "hero_name": "Arlott",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20241021140737",
+    "script": "https://github.com/Mexi23/Assasins_defS/raw/main/arlott_def_backup.zip"
+  },
+  {
+    "hero_name": "Aurora",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest?cb=20240131102638",
+    "script": "https://github.com/Mexi23/MageD/raw/main/aurora_def_backup.zip"
+  },
+  {
+    "hero_name": "Badang",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest?cb=20220525165815",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Badang%20Backup.zip"
+  },
+  {
+    "hero_name": "Baxia",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20220621142648",
+    "script": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/BAXIA%20BACKUP.zip"
+  },
+  {
+    "hero_name": "Benedetta",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+    "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip"
+  },
+  {
+    "hero_name": "Brody",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest?cb=20220525172049",
+    "script": "https://github.com/azizboy2007/Zong-Patcher-V10/raw/main/Brody%20Backup.zip"
+  },
+  {
+    "hero_name": "Carmilla",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest?cb=20220525171356",
+    "script": "https://github.com/Mexi23/SuppD/raw/main/carmilla_def_backup.zip"
+  },
+  {
+    "hero_name": "Cecilion",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest?cb=20220525171232",
+    "script": "https://github.com/azizboy2007/MAGE-SHIROTOOLS/raw/main/CECILLION%20BACKUP.zip"
+  },
+  {
+    "hero_name": "Chou",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141231",
+    "script": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/CHOU%20BACKUP.zip"
+  },
+  {
+    "hero_name": "Dyrroth",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest?cb=20250917081250",
+    "script": "https://github.com/azizboy2007/FIGHTER-SHIROTOOLS/raw/main/DYROTH%20BACKUP.zip"
+  },
+  {
+    "hero_name": "Esmeralda",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest?cb=20240121135702",
+    "script": "https://github.com/azizboy2007/2024SKINSCRIPT/raw/main/ESMERALDA%20BACKUP.zip"
+  },
+  {
+    "hero_name": "Fredrinn",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Fredrinn%20Backup.zip"
+  },
+  {
+    "hero_name": "Gatotkaca",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest?cb=20220525165152",
+    "script": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip"
   }
 ]
