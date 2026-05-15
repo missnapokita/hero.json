@@ -48,6 +48,30 @@
     "script": "https://gpxcczvqsvngtixmlrx.supabase.co/storage/v1/object/public/custom/argus%20toji.zip"
   },
   {
+    "name": "Arlott",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest?cb=20241021140737",
+    "script": "https://github.com/Mexi23/Assasins_defS/raw/main/arlott_def_backup.zip"
+  },
+  {
+    "name": "Arlott",
+    "skin_name": "Obanai",
+    "image": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(23).jpeg",
+    "script": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Arlot%20Obanai.zip"
+  },
+  {
+    "name": "Arlott",
+    "skin_name": "Zoro",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARLOTT%20ZORO.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARLOTT%20X%20ZORO.zip"
+  },
+  {
+    "name": "Arlott",
+    "skin_name": "Chainsaw Man",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ARLOT%20X%20CHAINSAWMAN.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Arlott%20X%20Chainsawman.zip"
+  },
+  {
     "name": "Alucard",
     "skin_name": "Finn",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
