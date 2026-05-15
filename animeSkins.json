@@ -270,6 +270,12 @@
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Esmeralda%20X%20Tsunade.zip"
   },
   {
+    "name": "Fredrinn",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter/fred%20backup.zip"
+  },
+  {
     "name": "Gatotkaca",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest?cb=20220525165152",
@@ -298,12 +304,6 @@
     "skin_name": "White Beard",
     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/11700001.png",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/117/11700001.zip"
-  },
-  {
-    "name": "Fredrinn",
-    "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
-    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter/fred%20backup.zip"
   },
   {
     "name": "Alucard",
