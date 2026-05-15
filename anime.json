@@ -73,5 +73,10 @@
     "hero_name": "Gatotkaca",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest?cb=20220525165152",
     "script": "https://github.com/azizboy2007/TANK-SCEIPT-SHIROO/raw/main/GATOKACA%20BACKUP.zip"
+  },
+  {
+    "hero_name": "Alpha",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest?cb=20240517115107",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/alpha%20backup.zip"
   }
 ]
