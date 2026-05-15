@@ -672,7 +672,7 @@
     "script": "https://github.com/missnapokita/June-Ass-Upgrade/raw/main/harley%20star%20to%20collector.zip"
   },
   {
-    "name": "Guardian of the Shrine",
+    "name": "Backup",
     "upgradable_skin": "Bren. Esports",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero479-portrait.png/revision/latest?cb=20220525165252",
     "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Assassin/lance%20backup.zip?t=2025-01-19T04%3A45%3A16.783Z"
@@ -688,6 +688,12 @@
     "upgradable_skin": "Empyrean Flame",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest?cb=20220804115345",
     "script": "https://github.com/Mexi23/AsStSB/raw/main/lance_dragon_backup.zip"
+  },
+  {
+    "name": "Guardian of the Shrine",
+    "upgradable_skin": "Empyrean Flame",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero104712-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144303",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Backup%20Skins%202025/Skin/lance%20dragon%20to%20keshin.zip"
   },
   {
     "upgradable_skin": "Empyrean Flame",
@@ -752,7 +758,7 @@
   {
     "upgradable_skin": "Masked Knight",
     "name": "Guardian of the Shrine",
-    "image": "https://pbs.twimg.com/media/GO1cGoFXsAEFNHd.jpg",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero104712-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144303",
     "script": "https://github.com/Mornwish/Upgrade-Aassasin/raw/main/LANCELOT/Lancelot%20Kishin%20Densetsu%20To%20Basic.zip"
   },
   {
@@ -782,7 +788,7 @@
   {
     "upgradable_skin": "Dark Earl",
     "name": "Guardian of the Shrine",
-    "image": "https://pbs.twimg.com/media/GO1cGoFXsAEFNHd.jpg",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero104712-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144303",
     "script": "https://github.com/Mornwish/Upgrade-Aassasin/raw/main/LANCELOT/Lancelot%20Kishin%20Densetsu%20To%20Starlight.zip"
   },
   {
