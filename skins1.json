@@ -5959,5 +5959,11 @@
     "skin_name": "Starborn Resolve",
     "image": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/20260309_122113.jpg",
     "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/freya_newstarlight.zip"
+  },
+  {
+    "hero": "New Hero",
+    "upgradable_skin": "New Skin",
+    "image": "",
+    "script": ""
   }
 ]
