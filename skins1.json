@@ -5947,9 +5947,17 @@
     "script": "https://github.com/Mexi23/others_2026/raw/refs/heads/main/freya_newstarlight.zip"
   },
   {
-    "hero": "New Hero",
-    "upgradable_skin": "New Skin",
-    "image": "",
-    "script": ""
+    "name": "Obsidia",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest/scale-to-width-down/150?cb=20250928040037",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20STARLIGHT.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Obsidia",
+    "skin_name": "Magitech Wraith",
+    "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20STARLIGHT.zip",
+    "tag": "Starlight"
   }
 ]
