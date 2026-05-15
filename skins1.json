@@ -2,8 +2,14 @@
   {
     "name": "Obsidia",
     "skin_name": "Backup",
-    "image": "https://github.com/Mexi23/JCGameUtility/raw/refs/heads/main/Saber_Default_image.png",
-    "script": "https://github.com/tin0521/assn/raw/refs/heads/main/saber_backup.zip"
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest/scale-to-width-down/150?cb=20250928040037",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20STARLIGHT.zip"
+  },
+  {
+    "name": "Obsidia",
+    "skin_name": "Magitech Wraith",
+    "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20STARLIGHT.zip"
   },
   {
     "name": "Saber",
