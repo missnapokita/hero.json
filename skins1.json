@@ -3559,6 +3559,20 @@
     "tag": "Starlight"
   },
   {
+    "name": "Obsidia",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest/scale-to-width-down/150?cb=20250928040037",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20STARLIGHT.zip",
+    "tag": "Starlight"
+  },
+  {
+    "name": "Obsidia",
+    "skin_name": "Magitech Wraith",
+    "image": "https://raw.githubusercontent.com/azizboy2007/KAIZERUSDSKTOP2026/main/IMG%20OBSIDIA%20STARLIGHT.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20STARLIGHT.zip",
+    "tag": "Starlight"
+  },
+  {
     "name": "Vexana",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero381-portrait.png/revision/latest?cb=20240501104511",
