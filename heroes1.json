@@ -651,7 +651,7 @@
   },
   {
     "hero_name": "Obsidia",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest/scale-to-width-down/150?cb=20250928040037",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero1301-portrait.png/revision/latest/scale-to-width-down/150?cb=20250928040037",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F1%20OBSIDIA%20STARLIGHT.zip"
   }
 ]
