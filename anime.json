@@ -30,6 +30,12 @@
     "script": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/BAXIA%20BACKUP.zip"
   },
   {
+    "hero_name": "Bane",
+    "skin_name": "Backup",
+    "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20241021140922",
+    "script": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip"
+  },
+  {
     "hero_name": "Benedetta",
     "image_url": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
     "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip"
