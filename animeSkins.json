@@ -126,6 +126,18 @@
     "script": "https://github.com/azizboy2007/v22/raw/main/Badang%20-%20Baji.zip"
   },
   {
+    "name": "Bane",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20241021140922",
+    "script": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip"
+  },
+  {
+    "name": "Bane",
+    "skin_name": "Mr. Crabs",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEk5B1e_f1PjBGLRINsm0bS_qd4CnU0ebHk4vvxkCpRHN3vdimMAd0I8&s=10",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip"
+  },
+  {
     "name": "Baxia",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20220621142648",
