@@ -484,13 +484,6 @@
     "tag": "Backup"
   },
   {
-    "skin_name": "Kaiju of the Deep",
-    "name": "Helcurt",
-    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
-    "script": "https://june2026.b-cdn.net/june%202026/hc%20collector.zip",
-    "tag": "Backup"
-  },
-  {
     "name": "Helcurt",
     "skin_name": "Ice Scythe",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest?cb=20220525165334",
@@ -4339,13 +4332,6 @@
   },
   {
     "name": "Balmond",
-    "skin_name": "Vulcan Lionheart",
-    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
-    "script": "https://june2026.b-cdn.net/june%202026/balmond%20titans.zip",
-    "tag": "Backup"
-  },
-  {
-    "name": "Balmond",
     "skin_name": "Infernal Warlord",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero028-portrait.png/revision/latest?cb=20230623125721",
     "script": "https://github.com/tin0521/ff/raw/main/balmond_infernalwarrior.zip",
@@ -4599,13 +4585,6 @@
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
     "script": "https://github.com/tin0521/ff/raw/refs/heads/main/chou_backup.zip",
-    "tag": "Backup"
-  },
-  {
-    "name": "Chou",
-    "skin_name": "Ken Masters",
-    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
-    "script": "https://june2026.b-cdn.net/june%202026/chou%20ken.zip",
     "tag": "Backup"
   },
   {
@@ -5370,13 +5349,6 @@
   },
   {
     "name": "Guinevere",
-    "skin_name": "Chun-Li",
-    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
-    "script": "https://june2026.b-cdn.net/june%202026/guin%20chun.zip",
-    "tag": "Backup"
-  },
-  {
-    "name": "Guinevere",
     "skin_name": "Elegant Butterfly",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest?cb=20240114135706",
     "script": "https://github.com/tin0521/ff/raw/main/guinevere_divinebutterfly.zip",
@@ -5674,13 +5646,6 @@
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
     "script": "https://github.com/tin0521/Oct2025/raw/main/pacquito_backup.zip",
-    "tag": "Backup"
-  },
-  {
-    "name": "Paquito",
-    "skin_name": "Ryu",
-    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero110311_CAB_b594f2f5d2ac5b4f40f8ab8a8e97a99d.png",
-    "script": "https://june2026.b-cdn.net/june%202026/paq%20street.zip",
     "tag": "Backup"
   },
   {
