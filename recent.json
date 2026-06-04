@@ -1,5 +1,29 @@
 [
   {
+    "hero_name": "Paquito",
+    "skin_name": "Ryu",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero110311_CAB_b594f2f5d2ac5b4f40f8ab8a8e97a99d.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/paq%20street.zip"
+  },
+  {
+    "hero_name": "Guinevere",
+    "skin_name": "Chun-Li",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/guin%20chun.zip"
+  },
+  {
+    "hero_name": "Dyrroth",
+    "skin_name": "Guile",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/dy%20street.zip"
+  },
+  {
+    "hero_name": "Chou",
+    "skin_name": "Ken Masters",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/chou%20ken.zip"
+  },
+  {
     "hero_name": "Helcurt",
     "skin_name": "Kaiju of the Deep",
     "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero518_CAB_d0359f3abb45a82e82b935e646015961.png",
