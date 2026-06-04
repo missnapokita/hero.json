@@ -1,5 +1,11 @@
 [
   {
+    "hero_name": "Balmond",
+    "skin_name": "Vulcan Lionheart",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero100211_CAB_8d7da51e003a9a66c121dd761f8b401c.png",
+    "script": "https://june2026.b-cdn.net/june%202026/balmond%20titans.zip"
+  },
+  {
     "hero_name": "Lesley",
     "skin_name": "Angelic Agent",
     "image": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/lesley_legendPort.png",
