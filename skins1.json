@@ -5369,11 +5369,12 @@
     "tag": "Backup"
   },
   {
-    "name": "Guinevere",
     "skin_name": "Chun-Li",
     "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
-    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/guin%20chun.zip",
-    "tag": "Backup"
+    "name": "Guinevere",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/guin%20chun.zip",
+    "tag": "Backup",
+    "hero_name": ""
   },
   {
     "name": "Guinevere",
@@ -5530,18 +5531,12 @@
     "tag": "Backup"
   },
   {
-    "name": "Dyrroth",
     "skin_name": "Guile",
     "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
-    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/dy%20street.zip",
-    "tag": "Backup"
-  },
-  {
     "name": "Dyrroth",
-    "skin_name": "Guile",
-    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
-    "script": "https://june2026.b-cdn.net/june%202026/dy%20street.zip",
-    "tag": "Backup"
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20guile.zip",
+    "tag": "Backup",
+    "hero_name": ""
   },
   {
     "name": "Dyrroth",
@@ -5684,11 +5679,12 @@
     "tag": "Backup"
   },
   {
-    "name": "Paquito",
     "skin_name": "Ryu",
-    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero110311_CAB_b594f2f5d2ac5b4f40f8ab8a8e97a99d.png",
-    "script": "https://raw.githubusercontent.com/missnapokita/june26-image/main/paq%20street.zip",
-    "tag": "Backup"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "name": "Paquito",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/paq%20ken.zip",
+    "tag": "Backup",
+    "hero_name": ""
   },
   {
     "name": "Paquito",
