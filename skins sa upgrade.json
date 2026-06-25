@@ -5154,6 +5154,12 @@
     "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20STUN%20to%20LIBRA%20SHIRYU.zip"
   },
   {
+    "upgradable_skin": "S.T.U.N. Chou",
+    "name": "Ryu",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20stun%20to%20ryu.zip"
+  },
+  {
     "name": "Backup",
     "upgradable_skin": "Furious Tiger",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest?cb=20220525164853",
@@ -5976,6 +5982,12 @@
     "script": "https://github.com/missnapokita/august_skin2024/raw/main/guin%20normal%20to%20legend.zip"
   },
   {
+    "upgradable_skin": "Fleur de Bleau",
+    "name": "Chun-Li",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/guin%20nor%20to%20chun.zip"
+  },
+  {
     "name": "Backup",
     "upgradable_skin": "Lotus",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest?cb=20220525165909",
@@ -6010,6 +6022,12 @@
     "name": "Psion of Tomorrow",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest?cb=20220525165927",
     "script": "https://github.com/missnapokita/august_skin2024/raw/main/guin%20special%20to%20legend.zip"
+  },
+  {
+    "upgradable_skin": "Amethyst Dance",
+    "name": "Chun-Li",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero108013_CAB_4714dc213e61978cf2789baeabb62f3b.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/guin%20emitis%20to%20chun.zip"
   },
   {
     "name": "Backup",
@@ -6096,6 +6114,12 @@
     "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Basic%20to%20HXH%20(Fix).zip"
   },
   {
+    "upgradable_skin": "Scalebore",
+    "name": "Guile",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20nor%20to%20guile.zip"
+  },
+  {
     "name": "Backup",
     "upgradable_skin": "Ruins Scavenger",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest?cb=20220525170034",
@@ -6124,6 +6148,12 @@
     "name": "Gon",
     "image": "https://i.imgur.com/aSyt8Uk.png",
     "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/main/Dyroth%20Starlight%20to%20HXH.zip"
+  },
+  {
+    "upgradable_skin": "Ruins Scavenger",
+    "name": "Guile",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero1859_CAB_5f9f3135db0a79ca16810c2154deccfd.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/dy%20star%20to%20guile.zip"
   },
   {
     "name": "Backup",
@@ -6318,6 +6348,12 @@
     "script": "https://github.com/injector-origin/mobile-legends-script/raw/main/assets/scripts/hero/103/103.zip"
   },
   {
+    "upgradable_skin": "Death Blow",
+    "name": "Ken Masters",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/paq%20nor%20to%20ken.zip"
+  },
+  {
     "name": "Backup",
     "upgradable_skin": "Underground Boxer",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest?cb=20220525170359",
@@ -6336,6 +6372,12 @@
     "script": "https://github.com/missnapokita/fightupgrade/raw/main/paquito%20special%20box%20to%20kof.zip"
   },
   {
+    "upgradable_skin": "Underground Boxer",
+    "name": "Ken Masters",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/paq%20boxer%20to%20ken.zip"
+  },
+  {
     "name": "Backup",
     "upgradable_skin": "Fist of Light",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest?cb=20221216103142",
@@ -6352,6 +6394,12 @@
     "name": "Blazing Tiger",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/3d/Hero1037-portrait.png/revision/latest?cb=20230514163428",
     "script": "https://github.com/missnapokita/fightupgrade/raw/main/paquito%20special%20light%20to%20collector.zip"
+  },
+  {
+    "upgradable_skin": "Fist of Light",
+    "name": "Ken Masters",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC7h6phUpcxMe4NGY51UNdpTXpdzAQaU0RCKtEfse4gtYTgQO0X1dZdmQ&s=10",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/paq%20fist%20to%20ken.zip"
   },
   {
     "name": "Backup",
