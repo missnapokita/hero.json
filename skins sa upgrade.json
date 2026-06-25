@@ -5076,6 +5076,12 @@
     "script": "https://github.com/Maharlikoders/Mobile-Legends-Script/raw/main/Chou/Chou%20Basic/Chou%20Basic%20to%20Starlight.zip"
   },
   {
+    "upgradable_skin": "Hip-hop Boy",
+    "name": "Ryu",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20nor%20to%20ryu.zip"
+  },
+  {
     "name": "Backup",
     "upgradable_skin": "Go Ballistic",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest?cb=20220525164855",
@@ -5173,6 +5179,12 @@
   },
   {
     "upgradable_skin": "Furious Tiger",
+    "name": "Ryu",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20stun%20to%20ryu.zip"
+  },
+  {
+    "upgradable_skin": "Furious Tiger",
     "name": "Dragon Shiryu",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest?cb=20220915121509",
     "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Special%20to%20DRAGON%20SHIRYU.zip"
@@ -5182,6 +5194,12 @@
     "name": "Libra Shiryu",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero102611-portrait.png/revision/latest?cb=20220915121517",
     "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Special%20to%20LIBRA%20SHIRYU.zip"
+  },
+  {
+    "upgradable_skin": "Furious Tiger",
+    "name": "Ryu",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20spe%20to%20ryu.zip"
   },
   {
     "name": "Backup",
