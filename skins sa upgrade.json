@@ -5118,6 +5118,12 @@
     "script": "https://github.com/azizboy2007/SKIN-UPGRADE/raw/refs/heads/main/Chou%20Starlight%20to%20STUN.zip"
   },
   {
+    "upgradable_skin": "Go Ballistic",
+    "name": "Ryu",
+    "image": "https://raw.githubusercontent.com/missnapokita/june26-image/main/Hero102614_CAB_700994e81bbeccef29b210095397de63.png",
+    "script": "https://github.com/azizboy2007/MADZAK2718/raw/refs/heads/main/chou%20star%20to%20ryu.zip"
+  },
+  {
     "name": "Backup",
     "upgradable_skin": "S.T.U.N. Chou",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero269-portrait.png/revision/latest?cb=20220525164857",
