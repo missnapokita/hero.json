@@ -4,48 +4,55 @@
     "skin_name": "Mr. Crabs",
     "hero_name": "Bane",
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_7e4e74bb161da0f477cc0d1819fa39e6.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip"
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip",
+    "hero_id": "bane"
   },
   {
     "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/refs/heads/main/20260423_145525.jpg",
     "skin_name": "Jollibee",
     "hero_name": "Paquito",
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_e2b6d9c6d82b4a27f0bb2710c8ead3e8.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip"
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip",
+    "hero_id": "paquito"
   },
   {
     "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/refs/heads/main/20260423_145706.jpg",
     "skin_name": "McDonald's",
     "hero_name": "Chou",
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600004.zip"
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600004.zip",
+    "hero_id": "chou"
   },
   {
     "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/refs/heads/main/20260411_113032.jpg",
     "skin_name": "Sheriff Woody",
     "hero_name": "Clint",
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_5a8345c69a4c9c611fdfce91089fe74a.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/13/1300001.zip"
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/13/1300001.zip",
+    "hero_id": "clint"
   },
   {
     "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/2cdd55d4aab5b811192b2f751f4b8f0372373618/20260411_113310.jpg",
     "skin_name": "Alex",
     "hero_name": "Miya",
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_da894b37bfb5cadb32307f371f31918a.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/1/_0100001.zip"
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/1/_0100001.zip",
+    "hero_id": "miya"
   },
   {
     "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/refs/heads/main/20260411_113524.jpg",
     "skin_name": "Steve",
     "hero_name": "Alucard",
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0f51b6906e08897aa02330d65b0deeac.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/7/_0700002.zip"
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/7/_0700002.zip",
+    "hero_id": "alucard"
   },
   {
     "image": "https://raw.githubusercontent.com/missnapokita/suggested-img/refs/heads/main/20260411_113650.jpg",
     "skin_name": "Mario",
     "hero_name": "Chou",
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
-    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600001.zip"
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600001.zip",
+    "hero_id": "chou"
   }
 ]
