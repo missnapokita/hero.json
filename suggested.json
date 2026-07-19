@@ -1,6 +1,14 @@
 [
   {
     "hero_name": "Chou",
+    "skin_name": "Michael Jackson",
+    "image": "https://github.com/WG170320/Resources-/raw/refs/heads/main/GIF_20260625_111756_709.gif",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
+    "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Mj%20Skin.zip",
+    "hero_id": "Chou"
+  },
+  {
+    "hero_name": "Chou",
     "skin_name": "Ken",
     "image": "https://pbs.twimg.com/media/HJaaJ4-bsAAo33Q.jpg",
     "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_158209b180032c4564b8f3bde8c48888.png",
