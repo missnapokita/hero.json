@@ -1,9 +1,51 @@
 [
   {
+    "hero_name": "Nolan",
+    "skin_name": "Nanami",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
+    "name": "Nolan",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Toji",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Argus%20X%20Toji%20V2.jpg",
+    "name": "Argus",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip"
+  },
+  {
+    "hero_name": "Brody",
+    "skin_name": "Choso",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
+    "name": "Cecillion",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip"
+  },
+  {
+    "hero_name": "Cecillion",
+    "skin_name": "Suguru Geto",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
+    "name": "Cecillion",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip"
+  },
+  {
+    "skin_name": "Aizen",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
+    "name": "Argus",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
+    "hero_name": ""
+  },
+  {
     "name": "Alucard",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
     "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
+  },
+  {
+    "skin_name": "Ichigo",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
+    "name": "Alucard",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
+    "hero_name": ""
   },
   {
     "name": "Alucard",
@@ -34,6 +76,13 @@
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
     "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
+  },
+  {
+    "skin_name": "Michael Jackson",
+    "image": "https://github.com/missnapokita/bagong-custom-skins/blob/main/michael-jackson-portrait-v0-6544v66elo6g1.png?raw=true",
+    "name": "Chou",
+    "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Mj%20Skin.zip",
+    "hero_name": "Chou"
   },
   {
     "name": "Chou",
