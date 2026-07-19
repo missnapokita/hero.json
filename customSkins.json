@@ -1,10 +1,24 @@
 [
   {
     "hero_name": "Nolan",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140807",
+    "name": "Nolan",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Nolan",
     "skin_name": "Nanami",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
     "name": "Nolan",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest/scale-to-width-down/150?cb=20250407160733",
+    "name": "Argus",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip"
   },
   {
     "hero_name": "Argus",
@@ -15,10 +29,24 @@
   },
   {
     "hero_name": "Brody",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143102",
+    "name": "Brody",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip"
+  },
+  {
+    "hero_name": "Brody",
     "skin_name": "Choso",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
     "name": "Cecillion",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip"
+  },
+  {
+    "hero_name": "Cecillion",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142846",
+    "name": "Cecillion",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip"
   },
   {
     "hero_name": "Cecillion",
