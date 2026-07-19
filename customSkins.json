@@ -1,5 +1,40 @@
 [
   {
+    "hero_name": "Alpha",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802155020",
+    "name": "Alpha",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Alpha",
+    "skin_name": "Homelander",
+    "image": "https://www.pictorem.com/uploads/collection/E/EA6RMG9HKI/900_Dan--Avenell_HOMELAnDERFposter.jpg",
+    "name": "Alpha",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20home%20lander.zip"
+  },
+  {
+    "hero_name": "Alpha",
+    "skin_name": "Igris",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMW4AONT-DRSEtianzJuwLXdEJ3thWUybatz7LHab8yu_BUQ0UNPXwNU&s=10",
+    "name": "Alpha",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20igris.zip"
+  },
+  {
+    "hero_name": "Balmond",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest/scale-to-width-down/150?cb=20251110110543",
+    "name": "Balmond",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20igris.zip"
+  },
+  {
+    "hero_name": "Balmond",
+    "skin_name": "Big Smoke",
+    "image": "https://i.pinimg.com/1200x/e2/5e/fe/e25efeabd2c47412d568fd0a018077e9.jpg",
+    "name": "Balmond",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/balmond%20big%20smoke.zip"
+  },
+  {
     "hero_name": "Nolan",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140807",
@@ -167,6 +202,20 @@
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip"
   },
   {
+    "hero_name": "Khufra",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142534",
+    "name": "Khufra",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Jake",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Hb0oX51Vu5zoxuyC94cFW8mcR2OdtH5CBgLzDSw7eecCbQb4T0-XZSI&s=10",
+    "name": "Khufra",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/khufra%20jake.zip"
+  },
+  {
     "name": "Paquito",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
@@ -177,5 +226,12 @@
     "skin_name": "Jollibee",
     "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/10300001.jpg",
     "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip"
+  },
+  {
+    "skin_name": "CJ",
+    "image": "https://i.pinimg.com/474x/c2/d8/75/c2d8751cd9e4cc8fd8ac9ff3cc35d6e2.jpg",
+    "name": "Paquito",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/paquito%20cj.zip",
+    "hero_name": ""
   }
 ]
