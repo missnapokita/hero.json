@@ -8,6 +8,38 @@
     "hero_id": "Chou"
   },
   {
+    "hero_name": "Helcurt",
+    "skin_name": "Kaiju of the Deep",
+    "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HCKunZla8AAm0W_.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_6abf0c552b59b8ca4cbc1af3662ef176.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip",
+    "hero_id": "Helcurt"
+  },
+  {
+    "hero_name": "Sun",
+    "skin_name": "Celestial Rebel",
+    "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HMyBfGlaAAADZcN.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_117b5cdcc13232157075ce7b7f6177e9.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip",
+    "hero_id": "Sun"
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Raiden Maru",
+    "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HMyBYWbacAAK324.jpg",
+    "head": "https://akmweb.youngjoygame.com/web/svnres/img/mlbb/homepage/100_0bd96658e5b8ec578226ea1622bd7231.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip",
+    "hero_id": "Argus"
+  },
+  {
+    "hero_name": "Balmond",
+    "skin_name": "Vulcan Lionsheart",
+    "image": "https://raw.githubusercontent.com/missnapokita/vulcan-skins/main/HJabeJMacAAw0Ag.jpg",
+    "head": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ICON%20BALMOND.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip",
+    "hero_id": "Balmond"
+  },
+  {
     "hero_name": "Chou",
     "skin_name": "Ken",
     "image": "https://pbs.twimg.com/media/HJaaJ4-bsAAo33Q.jpg",
