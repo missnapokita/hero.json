@@ -1,0 +1,602 @@
+[
+  {
+    "hero_name": "yu_zhong",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero951-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142947",
+    "name": "yu_zhong",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "yu_zhong",
+    "skin_name": "Tanjiro",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YUZHONG%20TANJIRO.png",
+    "name": "yu_zhong",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20YuZhong%20Tanjiro.zip"
+  },
+  {
+    "hero_name": "Carmilla",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142902",
+    "name": "Carmilla",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Carmilla",
+    "skin_name": "Nezuko",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CARMILA%20X%20NEZUKO.png",
+    "name": "Carmilla",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Carmila%20X%20Nezuko.zip"
+  },
+  {
+    "hero_name": "Aurora",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero361-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141501",
+    "name": "Aurora",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Aurora",
+    "skin_name": "Aokiji",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20AURORA%20X%20ONEPIECE.jpg",
+    "name": "Aurora",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Aurora%20X%20Aokiji%20Onepiece.zip"
+  },
+  {
+    "hero_name": "Dyrroth",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero851-portrait.png/revision/latest/scale-to-width-down/150?cb=20250917081250",
+    "name": "Dyrroth",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Dyrroth",
+    "skin_name": "Gojo",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG_20260310_232748_122.jpg",
+    "name": "Dyrroth",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Gojo.zip"
+  },
+  {
+    "hero_name": "Dyrroth",
+    "skin_name": "Ace",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20DYROTH%20X%20ACE.jpg",
+    "name": "Dyrroth",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Ace%20Onepiece.zip"
+  },
+  {
+    "hero_name": "Esmeralda",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero811-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142615",
+    "name": "Esmeralda",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Esmeralda",
+    "skin_name": "Tsunade",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ESMI%20TSUNADE.jpg",
+    "name": "Esmeralda",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Esmeralda%20X%20Tsunade.zip"
+  },
+  {
+    "hero_name": "Zilong",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero161-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141000",
+    "name": "Zilong",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Zilong",
+    "skin_name": "Chucky",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ZILONG%20CHUCKY.jpg",
+    "name": "Zilong",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ZILONG%20X%20CHUKKY.zip"
+  },
+  {
+    "hero_name": "Jawhead",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero541-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141935",
+    "name": "Jawhead",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Jawhead",
+    "skin_name": "Four Arms",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20JawHEAD%20BENTEN%204ARMS.jpg",
+    "name": "Jawhead",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20JAWHEAD%20X%20BENTEN.zip"
+  },
+  {
+    "hero_name": "Gatotkaca",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/ba/Hero411-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021141617",
+    "name": "Gatotkaca",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Gatotkaca",
+    "skin_name": "Hulk",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20GATOTKACA%20HULK.jpg",
+    "name": "Gatotkaca",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20GATOTKACA%20X%20HULK.zip"
+  },
+  {
+    "hero_name": "Gatotkaca",
+    "skin_name": "Venom",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20Gatotkaca%20VENOM.jpg",
+    "name": "Gatotkaca",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Gatotkaca%20X%20Venom%20Marvel.zip"
+  },
+  {
+    "hero_name": "Badang",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero771-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142519",
+    "name": "Badang",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Badang",
+    "skin_name": "Akaza",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BADANG%20AKAZA.jpg",
+    "name": "Badang",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20BADANG%20X%20AKAZA.zip"
+  },
+  {
+    "hero_name": "Arlott",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140737",
+    "name": "Arlott",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Arlott",
+    "skin_name": "Zoro",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARLOTT%20ZORO.jpg",
+    "name": "Arlott",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARLOTT%20X%20ZORO.zip"
+  },
+  {
+    "hero_name": "Arlott",
+    "skin_name": "Chainsaw Man",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ARLOT%20X%20CHAINSAWMAN.jpg",
+    "name": "Arlott",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Arlott%20X%20Chainsawman.zip"
+  },
+  {
+    "hero_name": "Alpha",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero281-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802155020",
+    "name": "Alpha",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Alpha",
+    "skin_name": "Homelander",
+    "image": "https://www.pictorem.com/uploads/collection/E/EA6RMG9HKI/900_Dan--Avenell_HOMELAnDERFposter.jpg",
+    "name": "Alpha",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20home%20lander.zip"
+  },
+  {
+    "hero_name": "Alpha",
+    "skin_name": "Igris",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPMW4AONT-DRSEtianzJuwLXdEJ3thWUybatz7LHab8yu_BUQ0UNPXwNU&s=10",
+    "name": "Alpha",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20igris.zip"
+  },
+  {
+    "hero_name": "Balmond",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero021-portrait.png/revision/latest/scale-to-width-down/150?cb=20251110110543",
+    "name": "Balmond",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/alpha%20igris.zip"
+  },
+  {
+    "hero_name": "Balmond",
+    "skin_name": "Big Smoke",
+    "image": "https://i.pinimg.com/1200x/e2/5e/fe/e25efeabd2c47412d568fd0a018077e9.jpg",
+    "name": "Balmond",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/balmond%20big%20smoke.zip"
+  },
+  {
+    "hero_name": "Nolan",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/fc/Hero1221-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140807",
+    "name": "Nolan",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Nolan",
+    "skin_name": "Nanami",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20NOLAN%20X%20KENTO.jpg",
+    "name": "Nolan",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero451-portrait.png/revision/latest/scale-to-width-down/150?cb=20250407160733",
+    "name": "Argus",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip"
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Toji",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Argus%20X%20Toji%20V2.jpg",
+    "name": "Argus",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip"
+  },
+  {
+    "hero_name": "Brody",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero1001-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143102",
+    "name": "Brody",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip"
+  },
+  {
+    "hero_name": "Brody",
+    "skin_name": "Choso",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20BRODY%20JUJUTSU%20KAISEN.jpg",
+    "name": "Brody",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BRODY%20X%20JUJUTSU%20KAISEN.zip"
+  },
+  {
+    "hero_name": "Cecilion",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero911-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142846",
+    "name": "Cecilion",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip"
+  },
+  {
+    "hero_name": "Cecilion",
+    "skin_name": "Madara",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20CECILLION%20MADARA.jpg",
+    "name": "Cecilion",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20CECILLION%20X%20MADARA.zip"
+  },
+  {
+    "hero_name": "Cecilion",
+    "skin_name": "Suguru Geto",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
+    "name": "Cecilion",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Steve",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARGUS%20STEVE.jpg",
+    "name": "Argus",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARGUS%20X%20STEVE%20MINECRFAFT.zip"
+  },
+  {
+    "skin_name": "Aizen",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
+    "name": "Argus",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
+    "hero_name": ""
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
+    "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
+  },
+  {
+    "skin_name": "Ichigo",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20IMG%20ALUCARD%20ICHIGO.jpg",
+    "name": "Alucard",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ALUCARD%20X%20ICHIGO.zip",
+    "hero_name": ""
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Steve",
+    "image": "https://raw.githubusercontent.com/missnapokita/aug-squad/refs/heads/main/Picsart_26-03-17_11-21-49-831.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/1/_0100001.zip"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Rimuru",
+    "image": "https://i.pinimg.com/736x/80/e9/a6/80e9a6de84fd88c1a89151c0521fc6dc.jpg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/alu%20rimuru.zip"
+  },
+  {
+    "name": "Belerick",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero701-portrait.png/revision/latest?cb=20220525165729",
+    "script": "https://github.com/missnapokita/June-2024-B-C-D/raw/main/belerick%20backup.zip"
+  },
+  {
+    "name": "Belerick",
+    "skin_name": "Iron Golem",
+    "image": "https://ccdn.g-portal.com/mc_blog_iron_golem_2_1775af75bd.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/70/7000001.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero261-portrait.png/revision/latest?cb=20220525164846",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter//chou%20backup.zip"
+  },
+  {
+    "skin_name": "Michael Jackson",
+    "image": "https://github.com/missnapokita/bagong-custom-skins/blob/main/michael-jackson-portrait-v0-6544v66elo6g1.png?raw=true",
+    "name": "Chou",
+    "script": "https://github.com/WG170320/Resources-/raw/refs/heads/main/Mj%20Skin.zip",
+    "hero_name": "Chou"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Mc Donald's",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600004.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600004.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Crimson Talisman",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600003.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600003.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Northern Fist",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600002.zip",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600002.jpg"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Mario",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/2600001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/26/2600001.zip"
+  },
+  {
+    "skin_name": "Red Ranger",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CHOU%20X%20RANGER%20RED.jpg",
+    "name": "Chou",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Chou%20X%20Red%20Ranger.zip",
+    "hero_name": ""
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero371-portrait.png/revision/latest?cb=20220525165107",
+    "script": "https://github.com/missnapokita/June2024-K-L-M/raw/main/lapu%20backup.zip"
+  },
+  {
+    "name": "Lapu-Lapu",
+    "skin_name": "Aurora Gaming",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/3700001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/37/3700001.zip"
+  },
+  {
+    "name": "Popol & Kupa",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero941-portrait.png/revision/latest?cb=20240430165645",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Marksman//popol%20backup.zip"
+  },
+  {
+    "name": "Popol & Kupa",
+    "skin_name": "Steve & Dog",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/9400001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/94/9400001.zip"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Exorcist",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20EXORSIT.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip"
+  },
+  {
+    "hero_name": "Khufra",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero781-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142534",
+    "name": "Khufra",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20EXORCIST.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Jake",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Hb0oX51Vu5zoxuyC94cFW8mcR2OdtH5CBgLzDSw7eecCbQb4T0-XZSI&s=10",
+    "name": "Khufra",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/khufra%20jake.zip"
+  },
+  {
+    "name": "Paquito",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "script": "https://github.com/missnapokita/June2024-N-O-P/raw/main/paquito%20backup.zip"
+  },
+  {
+    "name": "Paquito",
+    "skin_name": "Jollibee",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/10300001.jpg",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/103/10300001.zip"
+  },
+  {
+    "skin_name": "CJ",
+    "image": "https://i.pinimg.com/474x/c2/d8/75/c2d8751cd9e4cc8fd8ac9ff3cc35d6e2.jpg",
+    "name": "Paquito",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/paquito%20cj.zip",
+    "hero_name": ""
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143417",
+    "name": "Yin",
+    "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/paquito%20cj.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Taro Sakamoto",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20YIN%20TARO%20SAKAMOTO.jpg",
+    "name": "Yin",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20YIN%20TARO%20SAKAMOTO.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Ultraman",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YIN%20ULTRAMAN.jpg",
+    "name": "Yin",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Yin%20X%20Ultra%20Man%20Red.zip"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Tanjiro",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs2y4G4i9E470HcJjitOYALPwtcHy9r_GQ9JjscYqoHP552oGYK5-18do&s=10",
+    "script": "https://github.com/missnapokita/march-2025/raw/refs/heads/main/alu%20tanjiro.zip"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Shanks",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGhWyLEYaOG_EkG4Y4JWJYGvcJbQYN3zxCBguP5EJ6MuegGGdadC369gVh&s=10",
+    "script": "https://github.com/missnapokita/anime-July-2024/raw/main/alucard%20shanks.zip"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Renguko",
+    "image": "https://w0.peakpx.com/wallpaper/980/252/HD-wallpaper-demon-slayer-rengoku-demon-slayer-kimetsu-no-yaiba-manga-kyojuro-phone-anime.jpg",
+    "script": "https://github.com/rahasiia55/New-Default-skin/raw/main/alucard%20rengoku.zip"
+  },
+  {
+    "name": "Arlott",
+    "skin_name": "Obanai",
+    "image": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(23).jpeg",
+    "script": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Arlot%20Obanai.zip"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Madara",
+    "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Badang%20Madara.jpeg",
+    "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Badang%20X%20Madara.zip"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Inosuke",
+    "image": "https://pbs.twimg.com/media/HGpSd_wW8AANb71.jpg",
+    "script": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Lapu%20Inosuke.zip"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Gon",
+    "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Badang%20Gon.jpeg",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/ANIME%20Badang%20X%20Gon.zip"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Luffy",
+    "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20Badang%20X%20Luffy.jpg",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Badang%20X%20Lufi.zip"
+  },
+  {
+    "name": "Badang",
+    "skin_name": "Baji",
+    "image": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20baji.jpeg",
+    "script": "https://github.com/azizboy2007/v22/raw/main/Badang%20-%20Baji.zip"
+  },
+  {
+    "name": "Bane",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero111-portrait.png/revision/latest?cb=20241021140922",
+    "script": "https://github.com/Mexi23/fighterD/raw/main/bane_def_backup.zip"
+  },
+  {
+    "name": "Bane",
+    "skin_name": "Mr. Crabs",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEk5B1e_f1PjBGLRINsm0bS_qd4CnU0ebHk4vvxkCpRHN3vdimMAd0I8&s=10",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/11/1100001.zip"
+  },
+  {
+    "name": "Baxia",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero871-portrait.png/revision/latest?cb=20220621142648",
+    "script": "https://github.com/azizboy2007/TANK-SHIROTOOLS/raw/main/BAXIA%20BACKUP.zip"
+  },
+  {
+    "name": "Baxia",
+    "skin_name": "Sonic",
+    "image": "https://i.pinimg.com/736x/e7/6b/75/e76b7597247f6220f36c05a1969c4115.jpg",
+    "script": "https://github.com/azizboy2007/v22/raw/main/sonic%20baxia.zip"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero971-portrait.png/revision/latest?cb=20240611063830",
+    "script": "https://github.com/azizboy2007/ASS-SCRIPT/raw/main/benedeta%20backup.zip"
+  },
+  {
+    "name": "Benedetta",
+    "skin_name": "Shinobou",
+    "image": "https://github.com/azizboy2007/CHIN-11/raw/main/demon-slayer-shinobu-kochou-5-wallpaper-1280x960_20.jpg",
+    "script": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Benedetta%20Shinobou.zip"
+  },
+  {
+    "name": "Brody",
+    "skin_name": "Kanzutora",
+    "image": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20Kanzutora.jpeg",
+    "script": "https://github.com/azizboy2007/v22/raw/main/Brody%20-%20Kanzutora.zip"
+  },
+  {
+    "name": "Cecilion",
+    "skin_name": "Geto",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20VALIR%20JJK.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20CECILLION%20X%20SUGURU%20JJK.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Sanji",
+    "image": "https://github.com/azizboy2007/CHIN-11/raw/main/images%20(6)%20(25).jpeg",
+    "script": "https://github.com/azizboy2007/CHIN-11/raw/main/ANIME%20Chou%20Sanji.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Ace",
+    "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/img%20chou%20x%20ace.jpeg",
+    "script": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/Anime%20Chou%20X%20Ace.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Draken",
+    "image": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20draken.jpeg",
+    "script": "https://github.com/azizboy2007/v22/raw/main/Chou%20-%20Draken.zip"
+  },
+  {
+    "name": "Chou",
+    "skin_name": "Rocklee",
+    "image": "https://github.com/azizboy2007/ZongHubSCRIPT/raw/main/IMG%20ROCKLEE.jpg",
+    "script": "https://github.com/azizboy2007/ZXHub-F1/raw/main/Chou%20X%20Rocklee.zip"
+  },
+  {
+    "name": "Dyrroth",
+    "skin_name": "Chifuyo",
+    "image": "https://github.com/azizboy2007/CHIN-11/raw/main/TR%20chifuyu.jpeg",
+    "script": "https://github.com/azizboy2007/v22/raw/main/Dyroth%20-%20Chifuyu.zip"
+  },
+  {
+    "name": "Fredrinn",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero1171-portrait.png/revision/latest?cb=20240114032237",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/Fighter/fred%20backup.zip"
+  },
+  {
+    "name": "Alpha",
+    "skin_name": "Gundam",
+    "image": "https://c4.wallpaperflare.com/wallpaper/501/319/831/mobile-suit-gundam-the-witch-from-mercury-anime-gundam-aerial-gundam-artwork-hd-wallpaper-preview.jpg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/alpha%20gundam.zip"
+  },
+  {
+    "name": "Fredrinn",
+    "skin_name": "Toji",
+    "image": "https://c4.wallpaperflare.com/wallpaper/95/627/603/jujutsu-kaisen-fushiguro-toji-weapon-sword-muscles-hd-wallpaper-preview.jpg",
+    "script": "https://gpxcczvqsvngetixmlrx.supabase.co/storage/v1/object/public/custom/fred%20toji.zip"
+  },
+  {
+    "name": "Fredrinn",
+    "skin_name": "White Beard",
+    "image": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/assets/11700001.png",
+    "script": "https://github.com/mlbb-toolkit/tikloot-bblm/raw/main/117/11700001.zip"
+  },
+  {
+    "name": "Alucard",
+    "skin_name": "Finn",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ALUCARD%20X%20FINN.jpg",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ALUCARD%20X%20FINN.zip"
+  }
+]
