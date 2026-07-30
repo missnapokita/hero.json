@@ -7,6 +7,13 @@
     "hero_name": ""
   },
   {
+    "hero_name": "",
+    "skin_name": "Chibi",
+    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20CHIBI%20JOHNSON.jpg",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CHIBI%20JOHNSON.zip"
+  },
+  {
     "skin_name": "Pou",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20POU.jpg",
     "name": "Johnson",
@@ -14,10 +21,136 @@
     "hero_name": ""
   },
   {
+    "hero_name": "",
+    "skin_name": "Airplane",
+    "image": "https://i.ibb.co/K0SFL6Y/Airplane.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Airplane.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Train Legend",
+    "image": "https://i.ibb.co/1KsVQ43/Clint-Fukact.jpg",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/v22/raw/main/TrainLegend.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Wheelchair",
+    "image": "https://i.ibb.co/GxnMkJV/Wheel-Chair.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Wheelchair.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Minions",
+    "image": "https://i.ibb.co/345Sm24/Menyons.jpg",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Minions.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Yacht",
+    "image": "https://i.ibb.co/tXJQ3zd/Yacht.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Yatcht.zip"
+  },
+  {
     "skin_name": "Jolibee Truck",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20JOHNSON%20X%20JOLIBEE%20TRUCK.jpg",
     "name": "Johnson",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Johnson%20X%20JolibeeCar.zip"
+  },
+  {
+    "skin_name": "Street Vendor",
+    "image": "https://i.ibb.co/4MGZT1f/Street-Vendor.jpg",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Street%20Vendors.zip",
+    "hero_name": ""
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Pinoy Jeepney",
+    "image": "https://i.ibb.co/cLfSmYX/Philippines-Jepniey.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Ph%20jeepney.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Pedicab",
+    "image": "https://i.ibb.co/Dwfpc74/Pedicab.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/pedicab.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "CJ GTA",
+    "image": "https://i.ibb.co/bN2T4wh/GTA-CJ.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/GTA%20CJ.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Chou Rich kid",
+    "image": "https://i.ibb.co/n6qkMfT/Richkid-Chou.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Richkid%20Chou.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "F15 Eagle",
+    "image": "https://i.ibb.co/9hR7ps0/F15-Eagle.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/F-15%20Eagle.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Chopper Bike",
+    "image": "https://i.ibb.co/5nxRN0V/Balmond-With-Motor.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Balmond%20Chooper%20Bike.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Banana Boat",
+    "image": "https://i.ibb.co/Pjdyqb0/Banana-Boat.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Banana%20Boat.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Chou Ads",
+    "image": "https://i.ibb.co/MfsxWcj/Chou-Ads.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/chou%20ads.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Roger & Moskov",
+    "image": "https://i.ibb.co/mtbGdZ7/Roger-Mscov.jpg",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Johnson%20Quad%20Bike.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Balmond Ads",
+    "image": "https://i.ibb.co/7gxjrJY/Balmond-Ads.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Balmond%20Ads.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Mr Bean",
+    "image": "https://i.ibb.co/hmHsMN0/Mr-Bean.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/MrBean.zip"
+  },
+  {
+    "hero_name": "",
+    "skin_name": "Rocketman",
+    "image": "https://i.ibb.co/MPCVp4J/rocketman.png",
+    "name": "Johnson",
+    "script": "https://github.com/azizboy2007/Weird-Skin/raw/main/Rocketman%20Paquito.zip"
   },
   {
     "hero_name": "",
