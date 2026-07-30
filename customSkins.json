@@ -7,6 +7,13 @@
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
   },
   {
+    "hero_name": "Arlott",
+    "skin_name": "backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140737",
+    "name": "arlott",
+    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/aulos%20renguko.zip"
+  },
+  {
     "hero_name": "yu_zhong",
     "skin_name": "Tanjiro",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YUZHONG%20TANJIRO.png",
@@ -140,10 +147,10 @@
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20BADANG%20X%20AKAZA.zip"
   },
   {
-    "hero_name": "Arlott",
+    "hero_name": "Aulos",
     "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140737",
-    "name": "Arlott",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest/scale-to-width-down/150?cb=20260423100521",
+    "name": "Aulos",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
   },
   {
@@ -270,6 +277,20 @@
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20ARGUS%20AIZEN.jpg",
     "name": "Argus",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Argus%20X%20Sosuke%20Aizen.zip",
+    "hero_name": ""
+  },
+  {
+    "skin_name": "Arogante",
+    "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/refs/heads/main/img/argus%20arogante.jpeg",
+    "name": "Argus",
+    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/argus%20arogante.zip",
+    "hero_name": ""
+  },
+  {
+    "skin_name": "Baraggan",
+    "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/refs/heads/main/img/argus%20baraggan.png",
+    "name": "Argus",
+    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/argus%20baraggan.zip",
     "hero_name": ""
   },
   {
