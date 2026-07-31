@@ -14,6 +14,13 @@
     "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/aulos%20renguko.zip"
   },
   {
+    "hero_name": "Arlott",
+    "skin_name": "",
+    "image": "",
+    "name": "arlott",
+    "script": ""
+  },
+  {
     "hero_name": "yu_zhong",
     "skin_name": "Tanjiro",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20YUZHONG%20TANJIRO.png",
@@ -145,13 +152,6 @@
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BADANG%20AKAZA.jpg",
     "name": "Badang",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20BADANG%20X%20AKAZA.zip"
-  },
-  {
-    "hero_name": "Aulos",
-    "skin_name": "Backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest/scale-to-width-down/150?cb=20260423100521",
-    "name": "Aulos",
-    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20Nolan%20X%20Kento%20Nanami.zip"
   },
   {
     "hero_name": "Arlott",
