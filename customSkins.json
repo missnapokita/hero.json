@@ -24,6 +24,38 @@
     "featured": false
   },
   {
+    "hero_name": "Martis",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/0b/Hero581-portrait.png/revision/latest?cb=20220525165503",
+    "name": "Martis",
+    "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/martis_backup.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Martis",
+    "skin_name": "Inosuke",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/images%20(11).jpeg",
+    "name": "Martis",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/martis%20inosuke%20v2.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Paquito",
+    "skin_name": "Backup",
+    "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero1031-portrait.png/revision/latest?cb=20220525170349",
+    "name": "Paquito",
+    "script": "https://github.com/tin0521/Oct2025/raw/main/pacquito_backup.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Paquito",
+    "skin_name": "Yuji",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/paquito%20yuji%20hok.png",
+    "name": "Paquito",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/paquito%20yuji%20hok.zip",
+    "featured": false
+  },
+  {
     "hero_name": "Nana",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20240602234727",
@@ -97,6 +129,14 @@
   },
   {
     "hero_name": "Bane",
+    "skin_name": "Kisame",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/bane%20kisame.png",
+    "name": "",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/bane%20kisame.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Bane",
     "skin_name": "Shino",
     "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/bane%20shino.png",
     "name": "",
@@ -132,6 +172,14 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero1081-portrait.png/revision/latest?cb=20220525171829",
     "name": "Aulus",
     "script": "https://github.com/missnapokita/june-2024/raw/main/aulos%20backup.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Aulus",
+    "skin_name": "Tanjiro",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/aulus%20tanjiro.png",
+    "name": "Aulus",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/aulos%20tanjiro.zip",
     "featured": false
   },
   {
@@ -360,10 +408,42 @@
   },
   {
     "hero_name": "Argus",
+    "skin_name": "Hidan",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20hidan.png",
+    "name": "Argus",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20hidan.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Argus",
     "skin_name": "Toji",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Argus%20X%20Toji%20V2.jpg",
     "name": "Argus",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20ARGUS%20X%20TOJI%20V2.zip"
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Kokushibo",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20kukoshibo.png",
+    "name": "Argus",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20kukoshibo.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Kenpatchi",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20kenpatchi.png",
+    "name": "Argus",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20kenpachi.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Argus",
+    "skin_name": "Ryu Yamada",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/argus%20ryu%20yamada.png",
+    "name": "Argus",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/argus%20ryu%20yamada.zip",
+    "featured": false
   },
   {
     "hero_name": "Argus",
@@ -443,6 +523,14 @@
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero071-portrait.png/revision/latest?cb=20240605132947",
     "script": "https://github.com/missnapokita/june-2024/raw/main/alucard%20backup.zip"
+  },
+  {
+    "skin_name": "Shanks",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/alu%20shanks.png",
+    "name": "Alucard",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/alu%20shanks.zip",
+    "hero_name": "",
+    "featured": false
   },
   {
     "skin_name": "Ichigo",
@@ -589,6 +677,30 @@
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero1131-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021143417",
     "name": "Yin",
     "script": "https://raw.githubusercontent.com/missnapokita/bagong-custom-skins/main/paquito%20cj.zip"
+  },
+  {
+    "hero_name": "Yin",
+    "skin_name": "Oggy",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20oggy.png",
+    "name": "Yin",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20oggy.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Yin",
+    "skin_name": "Diavolo",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20diavolo.png",
+    "name": "Yin",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20diavolo.zip",
+    "featured": false
+  },
+  {
+    "hero_name": "Yin",
+    "skin_name": "Obito",
+    "image": "https://raw.githubusercontent.com/missnapokita/meow/main/custom%20aug%2026/yin%20obito.png",
+    "name": "Yin",
+    "script": "https://raw.githubusercontent.com/missnapokita/meow/main/yin%20obito.zip",
+    "featured": false
   },
   {
     "hero_name": "",
