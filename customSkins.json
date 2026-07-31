@@ -25,14 +25,6 @@
   },
   {
     "hero_name": "Nana",
-    "skin_name": "Anya",
-    "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/nana%20anya.png",
-    "name": "",
-    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/nana%20anya.zip",
-    "featured": false
-  },
-  {
-    "hero_name": "Nana",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero051-portrait.png/revision/latest?cb=20240602234727",
     "name": "Nana",
@@ -45,14 +37,6 @@
     "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/nana%20anya.png",
     "name": "",
     "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/nana%20anya.zip",
-    "featured": false
-  },
-  {
-    "hero_name": "Hilda",
-    "skin_name": "Kushina",
-    "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/hilda%20kushina.png",
-    "name": "",
-    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/hilda%20kushina.zip",
     "featured": false
   },
   {
@@ -73,14 +57,6 @@
   },
   {
     "hero_name": "Estes",
-    "skin_name": "Kabuto",
-    "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/estes.png",
-    "name": "",
-    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/estes%20kabuto.zip",
-    "featured": false
-  },
-  {
-    "hero_name": "Estes",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero341-portrait.png/revision/latest?cb=20240501095928",
     "name": "Estes",
@@ -97,14 +73,6 @@
   },
   {
     "hero_name": "Cyclops",
-    "skin_name": "Gojo",
-    "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/cylops%20gojo.png",
-    "name": "",
-    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/cylops%20gojo.zip",
-    "featured": false
-  },
-  {
-    "hero_name": "Cyclops",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero331-portrait.png/revision/latest?cb=20240122082946",
     "name": "Cyclops",
@@ -117,14 +85,6 @@
     "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/cylops%20gojo.png",
     "name": "",
     "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/cylops%20gojo.zip",
-    "featured": false
-  },
-  {
-    "hero_name": "Bane1",
-    "skin_name": "Shino",
-    "image": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/img/bane%20shino.png",
-    "name": "",
-    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/ban%20shino.zip",
     "featured": false
   },
   {
@@ -215,15 +175,7 @@
     "featured": false
   },
   {
-    "hero_name": "Carmilla2",
-    "skin_name": "Nezuko",
-    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CARMILA%20X%20NEZUKO.png",
-    "name": "Aulos",
-    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Carmila%20X%20Nezuko.zip",
-    "featured": false
-  },
-  {
-    "hero_name": "Carmilla1",
+    "hero_name": "Carmilla",
     "skin_name": "Nezuko",
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20CARMILA%20X%20NEZUKO.png",
     "name": "Carmilla",
@@ -263,13 +215,6 @@
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20IMG%20DYROTH%20X%20ACE.jpg",
     "name": "Dyrroth",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Ace%20Onepiece.zip"
-  },
-  {
-    "hero_name": "Dyrroth1",
-    "skin_name": "Gojo",
-    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG_20260310_232748_122.jpg",
-    "name": "Dyrroth",
-    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F3%20Dyroth%20X%20Gojo.zip"
   },
   {
     "hero_name": "Esmeralda",
