@@ -1,26 +1,5 @@
 [
   {
-    "hero_name": "Arlott",
-    "skin_name": "backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140737",
-    "name": "arlott",
-    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/aulos%20renguko.zip"
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "",
-    "image": "",
-    "name": "arlott",
-    "script": ""
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "",
-    "image": "",
-    "name": "arlott",
-    "script": ""
-  },
-  {
     "hero_name": "Carmilla",
     "skin_name": "Backup",
     "image": "https://static.wikia.nocookie.net/mobile-legends/images/3/30/Hero921-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021142902",
@@ -145,55 +124,6 @@
     "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20BADANG%20AKAZA.jpg",
     "name": "Badang",
     "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20BADANG%20X%20AKAZA.zip"
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "Zoro",
-    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARLOTT%20ZORO.jpg",
-    "name": "Arlott",
-    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARLOTT%20X%20ZORO.zip"
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "Chainsaw Man",
-    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ARLOT%20X%20CHAINSAWMAN.jpg",
-    "name": "Arlott",
-    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Arlott%20X%20Chainsawman.zip"
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "backup",
-    "image": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1201-portrait.png/revision/latest/scale-to-width-down/150?cb=20241021140737",
-    "name": "arlott",
-    "script": "https://raw.githubusercontent.com/missnapokita/custom-skin-ngayong-2026/main/aulos%20renguko.zip"
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "",
-    "image": "",
-    "name": "arlott",
-    "script": ""
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "",
-    "image": "",
-    "name": "arlott",
-    "script": ""
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "Zoro",
-    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/F17%20ARLOTT%20ZORO.jpg",
-    "name": "Arlott",
-    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/CUSTOM%20ARLOTT%20X%20ZORO.zip"
-  },
-  {
-    "hero_name": "Arlott",
-    "skin_name": "Chainsaw Man",
-    "image": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/IMG%20ARLOT%20X%20CHAINSAWMAN.jpg",
-    "name": "Arlott",
-    "script": "https://github.com/azizboy2007/KAIZERUSDSKTOP2026/raw/main/Custom%20Arlott%20X%20Chainsawman.zip"
   },
   {
     "hero_name": "Alpha",
